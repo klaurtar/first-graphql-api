@@ -2,9 +2,9 @@
   "name": "graphql-project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon node app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ryan Talbert",
@@ -17,4 +17,5 @@
     "lodash": "^4.17.21",
     "mongoose": "^6.2.6"
   }
+
 }
